@@ -2,7 +2,7 @@ package br.com.hunters.model;
 
 public class Constantes {
 	
-	public static final String  QUEBRAR_LINHA = "\\n";
+	public static final String  QUEBRAR_LINHA = "\n";
 	
 	public static final String ESPACAMENTO_PADRAO = "\u001B\u0030";
 	
